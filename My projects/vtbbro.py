@@ -1,0 +1,5 @@
+import datetime
+
+COUNT_MONTHS = 36
+LOAN_AMOUNT = 418286
+FIRST_PAYMENT_DATE = datetime.date(2023, 10, 16)
